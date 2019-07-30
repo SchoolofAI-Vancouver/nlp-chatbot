@@ -8,3 +8,10 @@ Download the [notebook](https://github.com/SchoolofAI-Vancouver/nlp-chatbot/blob
 ```bash
 git clone https://github.com/SchoolofAI-Vancouver/nlp-chatbot.git
 ```
+
+Instructions to upload notebook to Kaggle:
+
+1. After cloning the repo, go to https://www.kaggle.com/kernels and create a new notebook kernel.
+2. Once created, in the settings pane on the right, turn on the GPU as well as the Internet options.
+3. After the kernel loads again, click on File > Upload Notebook > Select the path to your notebook (on local machine).
+4. And we are ready to go!
